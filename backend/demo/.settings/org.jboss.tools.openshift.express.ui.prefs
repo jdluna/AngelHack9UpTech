@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=575c8ef30c1e66056f000091
+org.jboss.tools.openshift.ApplicationName=demo
+org.jboss.tools.openshift.Connection=https\://jhosep.dario%40gmail.com@openshift.redhat.com
+org.jboss.tools.openshift.DeployFolder=webapps
+org.jboss.tools.openshift.Domain=jdluna
+org.jboss.tools.openshift.RemoteName=origin

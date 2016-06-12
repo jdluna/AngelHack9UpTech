@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=575d7d8f89f5cf5e49000169
+org.jboss.tools.openshift.ApplicationName=uptec
+org.jboss.tools.openshift.Connection=https\://jhosep.dario%40gmail.com@openshift.redhat.com
+org.jboss.tools.openshift.Domain=jdluna
+org.jboss.tools.openshift.RemoteName=origin
